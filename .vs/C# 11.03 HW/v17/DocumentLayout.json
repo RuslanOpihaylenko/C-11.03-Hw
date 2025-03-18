@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C# 11.03 HW\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\IT\\C# .NET\\C# 11.03 HW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7989F3E2-2C16-4D08-8E60-2B2CBA2BF079}|C# 11.03 HW\\C# 11.03 HW.csproj|c:\\users\\user\\desktop\\c# 11.03 hw\\c# 11.03 hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7989F3E2-2C16-4D08-8E60-2B2CBA2BF079}|C# 11.03 HW\\C# 11.03 HW.csproj|c:\\users\\user\\desktop\\it\\c# .net\\c# 11.03 hw\\c# 11.03 hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7989F3E2-2C16-4D08-8E60-2B2CBA2BF079}|C# 11.03 HW\\C# 11.03 HW.csproj|solutionrelative:c# 11.03 hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# 11.03 HW\\C# 11.03 HW\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\IT\\C# .NET\\C# 11.03 HW\\C# 11.03 HW\\Program.cs",
               "RelativeDocumentMoniker": "C# 11.03 HW\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C# 11.03 HW\\C# 11.03 HW\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\IT\\C# .NET\\C# 11.03 HW\\C# 11.03 HW\\Program.cs",
               "RelativeToolTip": "C# 11.03 HW\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T17:32:15.831Z",
               "EditorCaption": ""

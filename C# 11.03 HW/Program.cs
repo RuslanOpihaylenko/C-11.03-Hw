@@ -12,23 +12,52 @@ namespace C__11._03_HW
                 { 
                     if (x % x-1 != 0 || x % x+1 != 0)
                     {
-                        Console.WriteLine($"Number {x} is proste!");
+                        return true;
                     }
-                }
-                if (x + 2 ==(x+x+1))
-                {
-                    Console.WriteLine($"Number {x} is Fibonachi!");
-                }
-                if (x % 2 == 0)
-                {
-                    Console.WriteLine($"Number {x} is parne!");
+                    return true;
                 }
                 else
                 {
-                    Console.WriteLine($"Number {x} is ne parne!");
-                }
+                    return false;
+                }    
             };
             arif.Invoke(4);
+            Predicate<int> arif2 = x =>
+            {
+                if (x + 2 == (x + x + 1))
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            };
+            arif2.Invoke(4);
+            Predicate<int> arif3 = x =>
+            {
+                if (x % 2 == 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            };
+            arif3.Invoke(4);
+            Predicate<int> arif4 = x =>
+            {
+                if (x % 2 != 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            };
+            arif4.Invoke(4);
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\IT\C# .NET\C# 11.03 HW\C# 11.03 HW\bin\Debug\net8.0\C# 11.03 HW.exe
+C:\Users\user\Desktop\IT\C# .NET\C# 11.03 HW\C# 11.03 HW\bin\Debug\net8.0\C# 11.03 HW.deps.json
+C:\Users\user\Desktop\IT\C# .NET\C# 11.03 HW\C# 11.03 HW\bin\Debug\net8.0\C# 11.03 HW.runtimeconfig.json
+C:\Users\user\Desktop\IT\C# .NET\C# 11.03 HW\C# 11.03 HW\bin\Debug\net8.0\C# 11.03 HW.dll
+C:\Users\user\Desktop\IT\C# .NET\C# 11.03 HW\C# 11.03 HW\bin\Debug\net8.0\C# 11.03 HW.pdb
+C:\Users\user\Desktop\IT\C# .NET\C# 11.03 HW\C# 11.03 HW\obj\Debug\net8.0\C# 11.03 HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\IT\C# .NET\C# 11.03 HW\C# 11.03 HW\obj\Debug\net8.0\C# 11.03 HW.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\IT\C# .NET\C# 11.03 HW\C# 11.03 HW\obj\Debug\net8.0\C# 11.03 HW.AssemblyInfo.cs
+C:\Users\user\Desktop\IT\C# .NET\C# 11.03 HW\C# 11.03 HW\obj\Debug\net8.0\C# 11.03 HW.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IT\C# .NET\C# 11.03 HW\C# 11.03 HW\obj\Debug\net8.0\C# 11.03 HW.sourcelink.json
+C:\Users\user\Desktop\IT\C# .NET\C# 11.03 HW\C# 11.03 HW\obj\Debug\net8.0\C# 11.03 HW.dll
+C:\Users\user\Desktop\IT\C# .NET\C# 11.03 HW\C# 11.03 HW\obj\Debug\net8.0\refint\C# 11.03 HW.dll
+C:\Users\user\Desktop\IT\C# .NET\C# 11.03 HW\C# 11.03 HW\obj\Debug\net8.0\C# 11.03 HW.pdb
+C:\Users\user\Desktop\IT\C# .NET\C# 11.03 HW\C# 11.03 HW\obj\Debug\net8.0\C# 11.03 HW.genruntimeconfig.cache
+C:\Users\user\Desktop\IT\C# .NET\C# 11.03 HW\C# 11.03 HW\obj\Debug\net8.0\ref\C# 11.03 HW.dll
